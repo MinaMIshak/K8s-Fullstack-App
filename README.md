@@ -9,11 +9,6 @@ This project demonstrates a fullstack application deployed on **Kubernetes**, in
 
 ---
 
-## 🧱 Project Architecture
-
-```plaintext
-User --> Ingress --> Frontend (Nginx) --> Backend (Node.js) --> PostgreSQL (with PVC)
-
 
 ## 📁 Project Structure
 
@@ -144,15 +139,4 @@ kubectl logs <pod-name>
 - ❌ API errors? → Check backend logs with `kubectl logs`.
 - ❌ Database not connecting? → Check Secret values and Service names.
 
----
 
-## 📬 Author
-
-**Mina Morcos** – [DockerHub: minamorcos187](https://hub.docker.com/u/minamorcos187)  
-Feel free to fork, clone, or improve this project.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
