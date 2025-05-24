@@ -8,7 +8,7 @@ This project demonstrates a fullstack application deployed on **Kubernetes**, in
 - ConfigMap and Secrets for secure configuration
 
 ---
-![draw io_NehXq2RUUz](https://github.com/user-attachments/assets/ceaa970c-bb4a-43db-9adb-2b9d4e6d2b41)
+  ![draw io_NehXq2RUUz](https://github.com/user-attachments/assets/ceaa970c-bb4a-43db-9adb-2b9d4e6d2b41)
 
 
 ## 📁 Project Structure
